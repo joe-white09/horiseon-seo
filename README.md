@@ -8,7 +8,7 @@ A website that explains the importance of search engine optimization
 *CSS
 
 # Website
-https://joe-white09.github.io/horiseon-seo/
+https://joe-white09.github.io/urban-octo-telegram/
 
 # Contribution
 &copy; 2019 Horiseon Social Solution Services, Inc.
